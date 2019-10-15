@@ -3,6 +3,12 @@
 ## Deployment Link
 - https://radiant-fjord-94176.herokuapp.com
 
+## Created and maintained by:
+* Chris Zeigler
+* Coti Garcia
+* Abbi DeLeve
+* Chika Achukwu
+
 ## Installation guide
 - npm install
 - npm start 
