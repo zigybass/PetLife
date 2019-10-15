@@ -8,6 +8,7 @@
 * Coti Garcia
 * Abbi DeLeve
 * Chika Achukwu
+* Stephen Allen
 
 ## Installation guide
 - npm install
