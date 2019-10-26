@@ -22,7 +22,6 @@
 ### Test account credentials
 - Username: test
 - Password: testpassword123
-</br>
 
 ### Landing page
 PetLife is a simple application for storing pet information. On the landing page we have two options:
