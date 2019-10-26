@@ -1,7 +1,7 @@
 # GT-Project3-Life
 
 ## Deployment Link
-- https://radiant-fjord-94176.herokuapp.com
+- https://pet-life-2019.herokuapp.com
 
 ## Created and maintained by:
 * Chris Zeigler
@@ -19,9 +19,6 @@
 - [npm](https://www.npmjs.com) - Node package manager
 - [Sass](https://sass-lang.com) (or scss) - CSS framework
 
-## Views
-### Deployment link:
-https://pet-life-2019.herokuapp.com
 ### Test account credentials
 - Username: test
 - Password: testpassword123
