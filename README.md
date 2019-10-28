@@ -28,6 +28,8 @@ PetLife is a simple application for storing pet information. On the landing page
 - Login: Redirects the user to the login page
 - Create Account: Redirects users to a create account page
 
+<img width="1360" alt="Screen Shot 2019-10-09 at 4 47 48 PM" src="https://user-images.githubusercontent.com/50716272/66875111-29094500-ef7b-11e9-9228-cccd51fe493d.png">
+
 > Note: We use protected routes to protect the application and the users personal information. For example if you were to attempt to bypass the login process and enter the hashed ID such as https://pet-life-2019.herokuapp.com/user/5db3258a376a8f002a6be58d/petfamily (the hashed id for the test account provided below) in the url bar, you will be redirected back to the login page.
 
 ### Login Page
@@ -50,5 +52,3 @@ The pet sitter page displays some basic information about their pet sitters as w
 
 ## Overview
 Pet Life is a MERN stack web application designed to be a one stop website for keeping track of all your pets, pet information, doctors visits, prescriptions and sitters information. https://pet-life-2019.herokuapp.com
-
-<img width="1360" alt="Screen Shot 2019-10-09 at 4 47 48 PM" src="https://user-images.githubusercontent.com/50716272/66875111-29094500-ef7b-11e9-9228-cccd51fe493d.png">
